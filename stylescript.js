@@ -1,5 +1,5 @@
 /**
- * [HtmlScript]{@link https://github.com/anarxyfr/StyleScript}
+ * [StyleScript]{@link https://github.com/anarxyfr/StyleScript}
  *
  * @version 1.0.0
  * @author anarxyfr
